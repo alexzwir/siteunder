@@ -24,10 +24,10 @@
 define('DB_NAME', 'siteunder');
 
 /** Usuário do banco de dados MySQL */
-define('DB_USER', 'root');
+define('DB_USER', 'siteunder');
 
 /** Senha do banco de dados MySQL */
-define('DB_PASSWORD', 'root');
+define('DB_PASSWORD', 'netshoes');
 
 /** Nome do host do MySQL */
 define('DB_HOST', 'localhost');
