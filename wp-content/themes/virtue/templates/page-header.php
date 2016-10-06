@@ -1,3 +1,5 @@
+
+
 <div class="page-header">
 	<h1 class="entry-title" itemprop="name">
 		<?php echo apply_filters('kadence_page_title', kadence_title() ); ?>
